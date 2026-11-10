@@ -1,0 +1,33 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+}
+
+.brand {
+    color: #ffffff;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+    .brand span {
+        color: #38bdf8;
+    }
+
+.auth-card {
+    width: 100%;
+    max-width: 420px;
+    border: none;
+    border-radius: 16px;
+}
+
+.btn-rimagine {
+    background-color: #0ea5e9;
+    border-color: #0ea5e9;
+    color: #ffffff;
+}
+
+.btn-rimagine:hover {
+    background-color: #0284c7;
+    border-color: #0284c7;
+    color: #ffffff;
+}
